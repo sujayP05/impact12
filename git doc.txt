@@ -1,0 +1,29 @@
+Git
+
+
+
+git config --global user.name "<<YourGitUsername>>"
+
+
+git config --global user.email "<<Your Git Email ID>>"
+
+
+git config --global user.password="<<Your Git Account Password>>"
+
+
+
+Created a new folder. Browse to that folder and key in git init command
+
+
+git -c http.sslVerify=false clone "<<GitRepoURL>>"
+
+This repository is created for demonstration purposes. - GitHub - NachiketInamdar/Impact101: This repository is created for demonstration purposes.
+
+
+
+
+
+
+
+
+
